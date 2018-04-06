@@ -1,0 +1,5 @@
+﻿  Main.cpp
+d:\documents\projects\chef\chef\main.cpp(64): warning C4018: '<': signed/unsigned mismatch
+d:\documents\projects\chef\chef\main.cpp(80): warning C4018: '<': signed/unsigned mismatch
+d:\documents\projects\chef\chef\main.cpp(108): warning C4715: 'dictionary::build': not all control paths return a value
+  Chef.vcxproj -> d:\Documents\Projects\Chef\Debug\Chef.exe
