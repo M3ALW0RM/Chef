@@ -1,0 +1,8 @@
+﻿  main.cpp
+main.obj : error LNK2019: unresolved external symbol endwin referenced in function main
+main.obj : error LNK2019: unresolved external symbol initscr referenced in function main
+main.obj : error LNK2019: unresolved external symbol printw referenced in function main
+main.obj : error LNK2019: unresolved external symbol refresh referenced in function main
+main.obj : error LNK2019: unresolved external symbol wgetch referenced in function main
+main.obj : error LNK2001: unresolved external symbol stdscr
+D:\Documents\Projects\Chef\x64\Debug\Chef.exe : fatal error LNK1120: 6 unresolved externals
