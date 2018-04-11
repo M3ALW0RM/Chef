@@ -81,8 +81,8 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <LinkIncremental>true</LinkIncremental>
-    <IncludePath>D:\Documents\Dev\PDCurses-master;$(IncludePath)</IncludePath>
-    <LibraryPath>D:\Documents\Dev\PDCurses-master\win32;$(LibraryPath)</LibraryPath>
+    <IncludePath>$(SolutionDir)PDCurses\include;$(IncludePath)</IncludePath>
+    <LibraryPath>$(SolutionDir)PDCurses\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LinkIncremental>true</LinkIncremental>

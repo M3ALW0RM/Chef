@@ -26,3 +26,4 @@ heavy 1
 club 2
 bread 2
 Eat 3
+rusty 1
